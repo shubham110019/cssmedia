@@ -1,6 +1,4 @@
-   /* padding start */
-
-      .p-8 {
+  .p-8 {
         padding: 8px !important;
       }
       .p-16 {
@@ -763,8 +761,164 @@
         /* margin top and bottom */
       }
 
+      @media (max-width: 767.98px) { 
+        /* padding classes */
+
+        .p-64,
+        .p-72,
+        .p-80,
+        .p-104,
+        .p-120 {
+          padding: 64px !important;
+        }
+
+        /* padding top classes */
+
+        .pt-64,
+        .pt-72,
+        .pt-80,
+        .pt-104,
+        .pt-120 {
+          padding-top: 64px !important;
+        }
+
+        /* padding bottom classes */
+
+        .pb-64,
+        .pb-72,
+        .pb-80,
+        .pb-104,
+        .pb-120 {
+          padding-bottom: 64px !important;
+        }
+
+        /* padding left classes */
+
+        .pl-64,
+        .pl-72,
+        .pl-80,
+        .pl-104,
+        .pl-120 {
+          padding-left: 64px !important;
+        }
+
+        /* padding right classes */
+
+        .pr-64,
+        .pr-72,
+        .pr-80,
+        .pr-104,
+        .pr-120 {
+          padding-right: 64px !important;
+        }
+
+        /* padding left and right classes */
+
+        .px-64,
+        .px-72,
+        .px-80,
+        .px-104,
+        .px-120 {
+          padding-left: 64px !important;
+          padding-right: 64px !important;
+        }
+
+        /* padding top and bottom classes */
+
+        .py-64,
+        .py-72,
+        .py-80,
+        .py-104,
+        .py-120 {
+          padding-top: 64px !important;
+          padding-bottom: 64px !important;
+        }
+
+        /* margin classes */
+
+        .m-64,
+        .m-72,
+        .m-80,
+        .m-104,
+        .m-120 {
+          margin: 64px !important;
+        }
+
+        /* margin top classes */
+
+        .mt-64,
+        .mt-72,
+        .mt-80,
+        .mt-104,
+        .mt-120 {
+          margin-top: 64px !important;
+        }
+
+        /* margin bottom classes */
+
+        .mb-64,
+        .mb-72,
+        .mb-80,
+        .mb-104,
+        .mb-120 {
+          margin-bottom: 64px !important;
+        }
+
+        /* margin left classes */
+
+        .ml-64,
+        .ml-72,
+        .ml-80,
+        .ml-104,
+        .ml-120 {
+          margin-left: 64px !important;
+        }
+
+        /* margin right classes */
+
+        .mr-64,
+        .mr-72,
+        .mr-80,
+        .mr-104,
+        .mr-120 {
+          margin-right: 64px !important;
+        }
+
+        /* margin left and right classes */
+
+        .mx-64,
+        .mx-72,
+        .mx-80,
+        .mx-104,
+        .mx-120 {
+          margin-left: 64px !important;
+          margin-right: 64px !important;
+        }
+
+        /* margin top and bottom classes */
+
+        .my-64,
+        .my-72,
+        .my-80,
+        .my-104,
+        .my-120 {
+          margin-top: 64px !important;
+          margin-bottom: 64px !important;
+        }
+      }
+
       @media (max-width: 575.98px) {
-        /* padding top  */
+        /* padding classes */
+        .p-56,
+        .p-64,
+        .p-72,
+        .p-80,
+        .p-104,
+        .p-120 {
+          padding: 56px !important;
+        }
+
+        /* padding top classes */
         .pt-56,
         .pt-64,
         .pt-72,
@@ -774,9 +928,7 @@
           padding-top: 56px !important;
         }
 
-        /* padding top  */
-
-        /* padding bottom  */
+        /* padding bottom classes */
         .pb-56,
         .pb-64,
         .pb-72,
@@ -785,5 +937,118 @@
         .pb-120 {
           padding-bottom: 56px !important;
         }
-        /* padding bottom  */
+
+        /* padding left classes */
+        .pl-56,
+        .pl-64,
+        .pl-72,
+        .pl-80,
+        .pl-104,
+        .pl-120 {
+          padding-left: 56px !important;
+        }
+
+        /* padding right classes */
+        .pr-56,
+        .pr-64,
+        .pr-72,
+        .pr-80,
+        .pr-104,
+        .pr-120 {
+          padding-right: 56px !important;
+        }
+
+        /* padding left and right classes */
+        .px-56,
+        .px-64,
+        .px-72,
+        .px-80,
+        .px-104,
+        .px-120 {
+          padding-left: 56px !important;
+          padding-right: 56px !important;
+        }
+
+        /* padding top and bottom classes */
+        .py-56,
+        .py-64,
+        .py-72,
+        .py-80,
+        .py-104,
+        .py-120 {
+          padding-top: 56px !important;
+          padding-bottom: 56px !important;
+        }
+
+        /* margin classes */
+        .m-56,
+        .m-64,
+        .m-72,
+        .m-80,
+        .m-104,
+        .m-120 {
+          margin: 56px !important;
+        }
+
+        /* margin top classes */
+        .mt-56,
+        .mt-64,
+        .mt-72,
+        .mt-80,
+        .mt-104,
+        .mt-120 {
+          margin-top: 56px !important;
+        }
+
+        /* margin bottom classes */
+        .mb-56,
+        .mb-64,
+        .mb-72,
+        .mb-80,
+        .mb-104,
+        .mb-120 {
+          margin-bottom: 56px !important;
+        }
+
+        /* margin left classes */
+        .ml-56,
+        .ml-64,
+        .ml-72,
+        .ml-80,
+        .ml-104,
+        .ml-120 {
+          margin-left: 56px !important;
+        }
+
+        /* margin right classes */
+        .mr-56,
+        .mr-64,
+        .mr-72,
+        .mr-80,
+        .mr-104,
+        .mr-120 {
+          margin-right: 56px !important;
+        }
+
+        /* margin left and right classes */
+        .mx-56,
+        .mx-64,
+        .mx-72,
+        .mx-80,
+        .mx-104,
+        .mx-120 {
+          margin-left: 56px !important;
+          margin-right: 56px !important;
+        }
+
+        /* margin top and bottom classes */
+        .my-56,
+        .my-64,
+        .my-72,
+        .my-80,
+        .my-104,
+        .my-120 {
+          margin-top: 56px !important;
+          margin-bottom: 56px !important;
+        }
       }
